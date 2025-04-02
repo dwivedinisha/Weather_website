@@ -2,7 +2,9 @@ Weather Website🌡️⛅⛈️🌤️
 
 Overview
 
-	This is a fully functional weather website that provides real-time weather updates based on the user's location or a searched city. The website fetches data using the OpenWeather API and displays essential 		weather details such as temperature, humidity, pressure, longitude, and latitude.
+	This is a fully functional weather website that provides real-time weather updates based on the user's location or a searched city. 
+ 	The website fetches data using the OpenWeather API and displays essential 		
+  	weather details such as temperature, humidity, pressure, longitude, and latitude.
 
 Features
 
@@ -48,7 +50,7 @@ API Key Setup
 
 	Open script.js and update:
 
-	const API_KEY = 'YOUR_API_KEY';
+	const API_KEY = '702bee3fa2f5691893b35d9f02bbda01';
 
 Future Improvements
 
