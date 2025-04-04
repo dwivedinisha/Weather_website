@@ -50,7 +50,7 @@ API Key Setup
 
 	Open script.js and update:
 
-	const API_KEY = '702bee3fa2f5691893b35d9f02bbda01';
+	const API_KEY = 'api-key';
 
 Future Improvements
 
